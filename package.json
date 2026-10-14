@@ -12,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build2": "babel src -d controller --watch"
-
   },
   "devDependencies": {
     "@babel/cli": "^8.0.4",

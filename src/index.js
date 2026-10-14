@@ -1,5 +1,8 @@
-// Declaración de variables
+import './css/b5.css';
+import './css/main.css';
 
+// ... tu código de lógica del código morse
+// Declaración de variables
 const palabra = document.getElementById("palabra");
 const codigoM = document.getElementById("codigoM");
 const codigoT = document.getElementById("codigoT");
